@@ -1,0 +1,349 @@
+,date,geography,geography_code,Industry,value
+23,2011,Darlington,E06000005, Q Human health and social work activities,8777
+40,2011,County Durham,E06000047, G Wholesale and retail trade; repair of motor vehicles and motor cycles,29107
+77,2011,Hartlepool,E06000001, Q Human health and social work activities,5589
+104,2011,Middlesbrough,E06000002, Q Human health and social work activities,14528
+121,2011,Northumberland,E06000057, G Wholesale and retail trade; repair of motor vehicles and motor cycles,18455
+148,2011,Redcar and Cleveland,E06000003, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7302
+175,2011,Stockton-on-Tees,E06000004, G Wholesale and retail trade; repair of motor vehicles and motor cycles,14867
+202,2011,Gateshead,E08000037, G Wholesale and retail trade; repair of motor vehicles and motor cycles,18202
+239,2011,Newcastle upon Tyne,E08000021, Q Human health and social work activities,28403
+256,2011,North Tyneside,E08000022, G Wholesale and retail trade; repair of motor vehicles and motor cycles,12967
+293,2011,South Tyneside,E08000023, Q Human health and social work activities,8763
+310,2011,Sunderland,E08000024, G Wholesale and retail trade; repair of motor vehicles and motor cycles,18879
+337,2011,Blackburn with Darwen,E06000008, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10850
+374,2011,Blackpool,E06000009, Q Human health and social work activities,11809
+391,2011,Cheshire East,E06000049, G Wholesale and retail trade; repair of motor vehicles and motor cycles,30722
+418,2011,Cheshire West and Chester,E06000050, G Wholesale and retail trade; repair of motor vehicles and motor cycles,29503
+445,2011,Halton,E06000006, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10943
+472,2011,Warrington,E06000007, G Wholesale and retail trade; repair of motor vehicles and motor cycles,20645
+499,2011,Allerdale,E07000026, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6718
+515,2011,Barrow-in-Furness,E07000027, C Manufacturing,6701
+553,2011,Carlisle,E07000028, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10556
+569,2011,Copeland,E07000029, C Manufacturing,8069
+607,2011,Eden,E07000030, G Wholesale and retail trade; repair of motor vehicles and motor cycles,4572
+634,2011,South Lakeland,E07000031, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9818
+661,2011,Bolton,E08000001, G Wholesale and retail trade; repair of motor vehicles and motor cycles,22351
+698,2011,Bury,E08000002, Q Human health and social work activities,13584
+725,2011,Manchester,E08000003, Q Human health and social work activities,44984
+742,2011,Oldham,E08000004, G Wholesale and retail trade; repair of motor vehicles and motor cycles,18285
+769,2011,Rochdale,E08000005, G Wholesale and retail trade; repair of motor vehicles and motor cycles,14443
+796,2011,Salford,E08000006, G Wholesale and retail trade; repair of motor vehicles and motor cycles,16951
+823,2011,Stockport,E08000007, G Wholesale and retail trade; repair of motor vehicles and motor cycles,21748
+850,2011,Tameside,E08000008, G Wholesale and retail trade; repair of motor vehicles and motor cycles,14537
+877,2011,Trafford,E08000009, G Wholesale and retail trade; repair of motor vehicles and motor cycles,26905
+904,2011,Wigan,E08000010, G Wholesale and retail trade; repair of motor vehicles and motor cycles,21434
+931,2011,Burnley,E07000117, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6478
+968,2011,Chorley,E07000118, Q Human health and social work activities,6812
+974,2011,Fylde,E07000119, C Manufacturing,9797
+1012,2011,Hyndburn,E07000120, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6518
+1049,2011,Lancaster,E07000121, Q Human health and social work activities,9636
+1055,2011,Pendle,E07000122, C Manufacturing,8089
+1093,2011,Preston,E07000123, G Wholesale and retail trade; repair of motor vehicles and motor cycles,15041
+1109,2011,Ribble Valley,E07000124, C Manufacturing,7273
+1136,2011,Rossendale,E07000125, C Manufacturing,4460
+1174,2011,South Ribble,E07000126, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8735
+1201,2011,West Lancashire,E07000127, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9137
+1228,2011,Wyre,E07000128, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6956
+1265,2011,Knowsley,E08000011, Q Human health and social work activities,10733
+1292,2011,Liverpool,E08000012, Q Human health and social work activities,42414
+1309,2011,Sefton,E08000014, G Wholesale and retail trade; repair of motor vehicles and motor cycles,17844
+1336,2011,St. Helens,E08000013, G Wholesale and retail trade; repair of motor vehicles and motor cycles,12523
+1373,2011,Wirral,E08000015, Q Human health and social work activities,20877
+1390,2011,East Riding of Yorkshire,E06000011, G Wholesale and retail trade; repair of motor vehicles and motor cycles,21652
+1417,2011,"Kingston upon Hull, City of",E06000010, G Wholesale and retail trade; repair of motor vehicles and motor cycles,22449
+1444,2011,North East Lincolnshire,E06000012, G Wholesale and retail trade; repair of motor vehicles and motor cycles,13727
+1460,2011,North Lincolnshire,E06000013, C Manufacturing,16523
+1498,2011,York,E06000014, G Wholesale and retail trade; repair of motor vehicles and motor cycles,17460
+1525,2011,Craven,E07000163, G Wholesale and retail trade; repair of motor vehicles and motor cycles,4361
+1560,2011,Hambleton,E07000164, O Public administration and defence; compulsory social security,7591
+1579,2011,Harrogate,E07000165, G Wholesale and retail trade; repair of motor vehicles and motor cycles,14432
+1614,2011,Richmondshire,E07000166, O Public administration and defence; compulsory social security,9004
+1633,2011,Ryedale,E07000167, G Wholesale and retail trade; repair of motor vehicles and motor cycles,4009
+1660,2011,Scarborough,E07000168, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7927
+1687,2011,Selby,E07000169, G Wholesale and retail trade; repair of motor vehicles and motor cycles,5440
+1714,2011,Barnsley,E08000016, G Wholesale and retail trade; repair of motor vehicles and motor cycles,13339
+1741,2011,Doncaster,E08000017, G Wholesale and retail trade; repair of motor vehicles and motor cycles,25294
+1768,2011,Rotherham,E08000018, G Wholesale and retail trade; repair of motor vehicles and motor cycles,17339
+1795,2011,Sheffield,E08000019, G Wholesale and retail trade; repair of motor vehicles and motor cycles,42783
+1822,2011,Bradford,E08000032, G Wholesale and retail trade; repair of motor vehicles and motor cycles,39564
+1849,2011,Calderdale,E08000033, G Wholesale and retail trade; repair of motor vehicles and motor cycles,13494
+1876,2011,Kirklees,E08000034, G Wholesale and retail trade; repair of motor vehicles and motor cycles,30080
+1903,2011,Leeds,E08000035, G Wholesale and retail trade; repair of motor vehicles and motor cycles,64000
+1930,2011,Wakefield,E08000036, G Wholesale and retail trade; repair of motor vehicles and motor cycles,31938
+1967,2011,Derby,E06000015, Q Human health and social work activities,20157
+1994,2011,Leicester,E06000016, Q Human health and social work activities,27395
+2021,2011,Nottingham,E06000018, Q Human health and social work activities,29052
+2046,2011,Rutland,E06000017, O Public administration and defence; compulsory social security,3071
+2054,2011,Amber Valley,E07000032, C Manufacturing,11540
+2092,2011,Bolsover,E07000033, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6708
+2119,2011,Chesterfield,E07000034, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10486
+2146,2011,Derbyshire Dales,E07000035, G Wholesale and retail trade; repair of motor vehicles and motor cycles,5368
+2162,2011,Erewash,E07000036, C Manufacturing,8291
+2189,2011,High Peak,E07000037, C Manufacturing,5787
+2216,2011,North East Derbyshire,E07000038, C Manufacturing,5332
+2243,2011,South Derbyshire,E07000039, C Manufacturing,7302
+2281,2011,Blaby,E07000129, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11628
+2308,2011,Charnwood,E07000130, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11890
+2335,2011,Harborough,E07000131, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11674
+2362,2011,Hinckley and Bosworth,E07000132, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7586
+2378,2011,Melton,E07000133, C Manufacturing,4519
+2416,2011,North West Leicestershire,E07000134, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9650
+2443,2011,Oadby and Wigston,E07000135, G Wholesale and retail trade; repair of motor vehicles and motor cycles,4578
+2470,2011,Boston,E07000136, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6519
+2497,2011,East Lindsey,E07000137, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9172
+2524,2011,Lincoln,E07000138, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10608
+2559,2011,North Kesteven,E07000139, O Public administration and defence; compulsory social security,7510
+2578,2011,South Holland,E07000140, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8040
+2605,2011,South Kesteven,E07000141, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10844
+2632,2011,West Lindsey,E07000142, G Wholesale and retail trade; repair of motor vehicles and motor cycles,4986
+2648,2011,Corby,E07000150, C Manufacturing,8381
+2686,2011,Daventry,E07000151, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7476
+2713,2011,East Northamptonshire,E07000152, G Wholesale and retail trade; repair of motor vehicles and motor cycles,5845
+2740,2011,Kettering,E07000153, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8311
+2767,2011,Northampton,E07000154, G Wholesale and retail trade; repair of motor vehicles and motor cycles,22856
+2794,2011,South Northamptonshire,E07000155, G Wholesale and retail trade; repair of motor vehicles and motor cycles,4504
+2821,2011,Wellingborough,E07000156, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7431
+2837,2011,Ashfield,E07000170, C Manufacturing,9756
+2875,2011,Bassetlaw,E07000171, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9450
+2902,2011,Broxtowe,E07000172, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7895
+2929,2011,Gedling,E07000173, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6765
+2956,2011,Mansfield,E07000174, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8131
+2983,2011,Newark and Sherwood,E07000175, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8886
+3010,2011,Rushcliffe,E07000176, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6667
+3037,2011,"Herefordshire, County of",E06000019, G Wholesale and retail trade; repair of motor vehicles and motor cycles,15079
+3064,2011,Shropshire,E06000051, G Wholesale and retail trade; repair of motor vehicles and motor cycles,24083
+3091,2011,Stoke-on-Trent,E06000021, G Wholesale and retail trade; repair of motor vehicles and motor cycles,21032
+3107,2011,Telford and Wrekin,E06000020, C Manufacturing,15328
+3145,2011,Cannock Chase,E07000192, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8365
+3161,2011,East Staffordshire,E07000193, C Manufacturing,11365
+3199,2011,Lichfield,E07000194, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8322
+3226,2011,Newcastle-under-Lyme,E07000195, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10968
+3253,2011,South Staffordshire,E07000196, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6231
+3290,2011,Stafford,E07000197, Q Human health and social work activities,10857
+3296,2011,Staffordshire Moorlands,E07000198, C Manufacturing,4922
+3334,2011,Tamworth,E07000199, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7365
+3361,2011,North Warwickshire,E07000218, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7847
+3388,2011,Nuneaton and Bedworth,E07000219, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9172
+3415,2011,Rugby,E07000220, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7631
+3442,2011,Stratford-on-Avon,E07000221, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10380
+3469,2011,Warwick,E07000222, G Wholesale and retail trade; repair of motor vehicles and motor cycles,12553
+3506,2011,Birmingham,E08000025, Q Human health and social work activities,73766
+3523,2011,Coventry,E08000026, G Wholesale and retail trade; repair of motor vehicles and motor cycles,25184
+3550,2011,Dudley,E08000027, G Wholesale and retail trade; repair of motor vehicles and motor cycles,23188
+3577,2011,Sandwell,E08000028, G Wholesale and retail trade; repair of motor vehicles and motor cycles,23418
+3604,2011,Solihull,E08000029, G Wholesale and retail trade; repair of motor vehicles and motor cycles,15811
+3631,2011,Walsall,E08000030, G Wholesale and retail trade; repair of motor vehicles and motor cycles,21049
+3658,2011,Wolverhampton,E08000031, G Wholesale and retail trade; repair of motor vehicles and motor cycles,17888
+3685,2011,Bromsgrove,E07000234, G Wholesale and retail trade; repair of motor vehicles and motor cycles,5796
+3712,2011,Malvern Hills,E07000235, G Wholesale and retail trade; repair of motor vehicles and motor cycles,4806
+3728,2011,Redditch,E07000236, C Manufacturing,8338
+3776,2011,Worcester,E07000237, Q Human health and social work activities,9053
+3793,2011,Wychavon,E07000238, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9638
+3820,2011,Wyre Forest,E07000239, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7599
+3847,2011,Bedford,E06000055, G Wholesale and retail trade; repair of motor vehicles and motor cycles,13379
+3874,2011,Central Bedfordshire,E06000056, G Wholesale and retail trade; repair of motor vehicles and motor cycles,17088
+3901,2011,Luton,E06000032, G Wholesale and retail trade; repair of motor vehicles and motor cycles,12745
+3928,2011,Peterborough,E06000031, G Wholesale and retail trade; repair of motor vehicles and motor cycles,19031
+3965,2011,Southend-on-Sea,E06000033, Q Human health and social work activities,11848
+3982,2011,Thurrock,E06000034, G Wholesale and retail trade; repair of motor vehicles and motor cycles,17697
+4018,2011,Cambridge,E07000008, P Education,21616
+4036,2011,East Cambridgeshire,E07000009, G Wholesale and retail trade; repair of motor vehicles and motor cycles,4758
+4063,2011,Fenland,E07000010, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6675
+4090,2011,Huntingdonshire,E07000011, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11935
+4123,2011,South Cambridgeshire,E07000012," M Professional, scientific and technical activities",10525
+4144,2011,Basildon,E07000066, G Wholesale and retail trade; repair of motor vehicles and motor cycles,15323
+4171,2011,Braintree,E07000067, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9912
+4198,2011,Brentwood,E07000068, G Wholesale and retail trade; repair of motor vehicles and motor cycles,4507
+4225,2011,Castle Point,E07000069, G Wholesale and retail trade; repair of motor vehicles and motor cycles,4623
+4252,2011,Chelmsford,E07000070, G Wholesale and retail trade; repair of motor vehicles and motor cycles,13036
+4279,2011,Colchester,E07000071, G Wholesale and retail trade; repair of motor vehicles and motor cycles,14404
+4306,2011,Epping Forest,E07000072, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8414
+4333,2011,Harlow,E07000073, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8825
+4360,2011,Maldon,E07000074, G Wholesale and retail trade; repair of motor vehicles and motor cycles,3768
+4387,2011,Rochford,E07000075, G Wholesale and retail trade; repair of motor vehicles and motor cycles,3949
+4414,2011,Tendring,E07000076, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8291
+4442,2011,Uttlesford,E07000077, H Transport and storage,6308
+4468,2011,Broxbourne,E07000095, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10925
+4495,2011,Dacorum,E07000096, G Wholesale and retail trade; repair of motor vehicles and motor cycles,13240
+4522,2011,East Hertfordshire,E07000242, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9231
+4549,2011,Hertsmere,E07000098, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8338
+4576,2011,North Hertfordshire,E07000099, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9340
+4603,2011,St Albans,E07000240, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10493
+4630,2011,Stevenage,E07000243, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7409
+4656,2011,Three Rivers,E07000102, F Construction,4857
+4684,2011,Watford,E07000103, G Wholesale and retail trade; repair of motor vehicles and motor cycles,12137
+4711,2011,Welwyn Hatfield,E07000241, G Wholesale and retail trade; repair of motor vehicles and motor cycles,16998
+4738,2011,Breckland,E07000143, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9110
+4765,2011,Broadland,E07000144, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8290
+4802,2011,Great Yarmouth,E07000145, Q Human health and social work activities,7250
+4819,2011,King's Lynn and West Norfolk,E07000146, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10863
+4846,2011,North Norfolk,E07000147, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7337
+4873,2011,Norwich,E07000148, G Wholesale and retail trade; repair of motor vehicles and motor cycles,16569
+4910,2011,South Norfolk,E07000149, Q Human health and social work activities,11246
+4927,2011,Babergh,E07000200, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6634
+4954,2011,Forest Heath,E07000201, G Wholesale and retail trade; repair of motor vehicles and motor cycles,4648
+4981,2011,Ipswich,E07000202, G Wholesale and retail trade; repair of motor vehicles and motor cycles,12067
+5008,2011,Mid Suffolk,E07000203, G Wholesale and retail trade; repair of motor vehicles and motor cycles,5896
+5035,2011,St Edmundsbury,E07000204, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10409
+5062,2011,Suffolk Coastal,E07000205, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7843
+5089,2011,Waveney,E07000206, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8389
+5122,2011,Camden,E09000007," M Professional, scientific and technical activities",57008
+5147,2011,City of London,E09000001, K Financial and insurance activities,163425
+5176,2011,Hackney,E09000012," M Professional, scientific and technical activities",14697
+5200,2011,Hammersmith and Fulham,E09000013, J Information and communication,22204
+5224,2011,Haringey,E09000014, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11221
+5257,2011,Islington,E09000019," M Professional, scientific and technical activities",30545
+5278,2011,Kensington and Chelsea,E09000020, G Wholesale and retail trade; repair of motor vehicles and motor cycles,20976
+5315,2011,Lambeth,E09000022, Q Human health and social work activities,28589
+5342,2011,Lewisham,E09000023, Q Human health and social work activities,12756
+5359,2011,Newham,E09000025, G Wholesale and retail trade; repair of motor vehicles and motor cycles,15194
+5392,2011,Southwark,E09000028," M Professional, scientific and technical activities",31811
+5417,2011,Tower Hamlets,E09000030, K Financial and insurance activities,78316
+5450,2011,Wandsworth,E09000032, Q Human health and social work activities,19350
+5473,2011,Westminster,E09000033," M Professional, scientific and technical activities",84920
+5494,2011,Barking and Dagenham,E09000002, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8677
+5521,2011,Barnet,E09000003, G Wholesale and retail trade; repair of motor vehicles and motor cycles,21181
+5548,2011,Bexley,E09000004, G Wholesale and retail trade; repair of motor vehicles and motor cycles,13069
+5575,2011,Brent,E09000005, G Wholesale and retail trade; repair of motor vehicles and motor cycles,19086
+5602,2011,Bromley,E09000006, G Wholesale and retail trade; repair of motor vehicles and motor cycles,17933
+5629,2011,Croydon,E09000008, G Wholesale and retail trade; repair of motor vehicles and motor cycles,19350
+5656,2011,Ealing,E09000009, G Wholesale and retail trade; repair of motor vehicles and motor cycles,22971
+5683,2011,Enfield,E09000010, G Wholesale and retail trade; repair of motor vehicles and motor cycles,18662
+5719,2011,Greenwich,E09000011, P Education,12594
+5737,2011,Harrow,E09000015, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11006
+5764,2011,Havering,E09000016, G Wholesale and retail trade; repair of motor vehicles and motor cycles,14657
+5792,2011,Hillingdon,E09000017, H Transport and storage,35659
+5819,2011,Hounslow,E09000018, H Transport and storage,18061
+5845,2011,Kingston upon Thames,E09000021, G Wholesale and retail trade; repair of motor vehicles and motor cycles,13331
+5872,2011,Merton,E09000024, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11758
+5899,2011,Redbridge,E09000026, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11810
+5932,2011,Richmond upon Thames,E09000027," M Professional, scientific and technical activities",10542
+5963,2011,Sutton,E09000029, Q Human health and social work activities,12049
+5980,2011,Waltham Forest,E09000031, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11864
+6007,2011,Bracknell Forest,E06000036, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11612
+6034,2011,Brighton and Hove,E06000043, G Wholesale and retail trade; repair of motor vehicles and motor cycles,19555
+6061,2011,Isle of Wight,E06000046, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9223
+6088,2011,Medway,E06000035, G Wholesale and retail trade; repair of motor vehicles and motor cycles,15844
+6115,2011,Milton Keynes,E06000042, G Wholesale and retail trade; repair of motor vehicles and motor cycles,32116
+6152,2011,Portsmouth,E06000044, Q Human health and social work activities,15633
+6169,2011,Reading,E06000038, G Wholesale and retail trade; repair of motor vehicles and motor cycles,13968
+6196,2011,Slough,E06000039, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11914
+6233,2011,Southampton,E06000045, Q Human health and social work activities,19213
+6250,2011,West Berkshire,E06000037, G Wholesale and retail trade; repair of motor vehicles and motor cycles,13856
+6277,2011,Windsor and Maidenhead,E06000040, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11165
+6307,2011,Wokingham,E06000041, J Information and communication,10261
+6331,2011,Aylesbury Vale,E07000004, G Wholesale and retail trade; repair of motor vehicles and motor cycles,12279
+6358,2011,Chiltern,E07000005, G Wholesale and retail trade; repair of motor vehicles and motor cycles,5174
+6385,2011,South Bucks,E07000006, G Wholesale and retail trade; repair of motor vehicles and motor cycles,5024
+6412,2011,Wycombe,E07000007, G Wholesale and retail trade; repair of motor vehicles and motor cycles,15445
+6449,2011,Eastbourne,E07000061, Q Human health and social work activities,9450
+6476,2011,Hastings,E07000062, Q Human health and social work activities,7845
+6493,2011,Lewes,E07000063, G Wholesale and retail trade; repair of motor vehicles and motor cycles,5618
+6530,2011,Rother,E07000064, Q Human health and social work activities,4731
+6547,2011,Wealden,E07000065, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9320
+6574,2011,Basingstoke and Deane,E07000084, G Wholesale and retail trade; repair of motor vehicles and motor cycles,15820
+6601,2011,East Hampshire,E07000085, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7692
+6628,2011,Eastleigh,E07000086, G Wholesale and retail trade; repair of motor vehicles and motor cycles,12787
+6655,2011,Fareham,E07000087, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8645
+6690,2011,Gosport,E07000088, O Public administration and defence; compulsory social security,3861
+6712,2011,Hart,E07000089, J Information and communication,5571
+6736,2011,Havant,E07000090, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7605
+6763,2011,New Forest,E07000091, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11963
+6790,2011,Rushmoor,E07000092, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7251
+6817,2011,Test Valley,E07000093, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10168
+6854,2011,Winchester,E07000094, Q Human health and social work activities,9382
+6871,2011,Ashford,E07000105, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10304
+6898,2011,Canterbury,E07000106, G Wholesale and retail trade; repair of motor vehicles and motor cycles,12056
+6925,2011,Dartford,E07000107, G Wholesale and retail trade; repair of motor vehicles and motor cycles,14443
+6952,2011,Dover,E07000108, G Wholesale and retail trade; repair of motor vehicles and motor cycles,5853
+6979,2011,Gravesham,E07000109, G Wholesale and retail trade; repair of motor vehicles and motor cycles,5306
+7006,2011,Maidstone,E07000110, G Wholesale and retail trade; repair of motor vehicles and motor cycles,12217
+7033,2011,Sevenoaks,E07000111, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7408
+7060,2011,Folkestone and Hythe,E07000112, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6478
+7087,2011,Swale,E07000113, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8924
+7124,2011,Thanet,E07000114, Q Human health and social work activities,8545
+7141,2011,Tonbridge and Malling,E07000115, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11125
+7168,2011,Tunbridge Wells,E07000116, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10549
+7195,2011,Cherwell,E07000177, G Wholesale and retail trade; repair of motor vehicles and motor cycles,14133
+7231,2011,Oxford,E07000178, P Education,23295
+7249,2011,South Oxfordshire,E07000179, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9404
+7282,2011,Vale of White Horse,E07000180," M Professional, scientific and technical activities",8420
+7303,2011,West Oxfordshire,E07000181, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7330
+7330,2011,Elmbridge,E07000207, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9952
+7367,2011,Epsom and Ewell,E07000208, Q Human health and social work activities,4963
+7384,2011,Guildford,E07000209, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11336
+7411,2011,Mole Valley,E07000210, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6236
+7448,2011,Reigate and Banstead,E07000211, Q Human health and social work activities,10295
+7475,2011,Runnymede,E07000212, Q Human health and social work activities,6551
+7492,2011,Spelthorne,E07000213, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6845
+7529,2011,Surrey Heath,E07000214, Q Human health and social work activities,7174
+7546,2011,Tandridge,E07000215, G Wholesale and retail trade; repair of motor vehicles and motor cycles,5185
+7573,2011,Waverley,E07000216, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8365
+7600,2011,Woking,E07000217, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6561
+7627,2011,Adur,E07000223, G Wholesale and retail trade; repair of motor vehicles and motor cycles,4098
+7654,2011,Arun,E07000224, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8805
+7681,2011,Chichester,E07000225, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9879
+7709,2011,Crawley,E07000226, H Transport and storage,20450
+7735,2011,Horsham,E07000227, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9458
+7762,2011,Mid Sussex,E07000228, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9407
+7799,2011,Worthing,E07000229, Q Human health and social work activities,10575
+7816,2011,Bath and North East Somerset,E06000022, G Wholesale and retail trade; repair of motor vehicles and motor cycles,13471
+7843,2011,Bournemouth,E06000028, G Wholesale and retail trade; repair of motor vehicles and motor cycles,13569
+7870,2011,"Bristol, City of",E06000023, G Wholesale and retail trade; repair of motor vehicles and motor cycles,33548
+7897,2011,Cornwall,E06000052, G Wholesale and retail trade; repair of motor vehicles and motor cycles,40970
+7926,2011,Isles of Scilly,E06000053, I Accommodation and food service activities,348
+7951,2011,North Somerset,E06000024, G Wholesale and retail trade; repair of motor vehicles and motor cycles,15055
+7988,2011,Plymouth,E06000026, Q Human health and social work activities,19526
+8005,2011,Poole,E06000029, G Wholesale and retail trade; repair of motor vehicles and motor cycles,13469
+8032,2011,South Gloucestershire,E06000025, G Wholesale and retail trade; repair of motor vehicles and motor cycles,22090
+8059,2011,Swindon,E06000030, G Wholesale and retail trade; repair of motor vehicles and motor cycles,19853
+8096,2011,Torbay,E06000027, Q Human health and social work activities,11180
+8113,2011,Wiltshire,E06000054, G Wholesale and retail trade; repair of motor vehicles and motor cycles,33418
+8140,2011,East Devon,E07000040, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9114
+8177,2011,Exeter,E07000041, Q Human health and social work activities,13801
+8194,2011,Mid Devon,E07000042, G Wholesale and retail trade; repair of motor vehicles and motor cycles,5434
+8221,2011,North Devon,E07000043, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8404
+8248,2011,South Hams,E07000044, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6916
+8275,2011,Teignbridge,E07000045, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9411
+8302,2011,Torridge,E07000046, G Wholesale and retail trade; repair of motor vehicles and motor cycles,3945
+8329,2011,West Devon,E07000047, G Wholesale and retail trade; repair of motor vehicles and motor cycles,3396
+8356,2011,Christchurch,E07000048, G Wholesale and retail trade; repair of motor vehicles and motor cycles,3774
+8383,2011,East Dorset,E07000049, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6298
+8410,2011,North Dorset,E07000050, G Wholesale and retail trade; repair of motor vehicles and motor cycles,4492
+8445,2011,Purbeck,E07000051, O Public administration and defence; compulsory social security,2896
+8474,2011,West Dorset,E07000052, Q Human health and social work activities,8744
+8491,2011,Weymouth and Portland,E07000053, G Wholesale and retail trade; repair of motor vehicles and motor cycles,4117
+8518,2011,Cheltenham,E07000078, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10520
+8545,2011,Cotswold,E07000079, G Wholesale and retail trade; repair of motor vehicles and motor cycles,7501
+8561,2011,Forest of Dean,E07000080, C Manufacturing,4470
+8609,2011,Gloucester,E07000081, Q Human health and social work activities,11045
+8615,2011,Stroud,E07000082, C Manufacturing,8209
+8642,2011,Tewkesbury,E07000083, C Manufacturing,8644
+8680,2011,Mendip,E07000187, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9642
+8707,2011,Sedgemoor,E07000188, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9298
+8723,2011,South Somerset,E07000189, C Manufacturing,13677
+8771,2011,Taunton Deane,E07000190, Q Human health and social work activities,11474
+8790,2011,West Somerset,E07000191, I Accommodation and food service activities,2322
+8815,2011,Isle of Anglesey,W06000001, G Wholesale and retail trade; repair of motor vehicles and motor cycles,3592
+8852,2011,Gwynedd,W06000002, Q Human health and social work activities,9266
+8869,2011,Conwy,W06000003, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8010
+8906,2011,Denbighshire,W06000004, Q Human health and social work activities,9290
+8912,2011,Flintshire,W06000005, C Manufacturing,18958
+8939,2011,Wrexham,W06000006, C Manufacturing,11261
+8977,2011,Powys,W06000023, G Wholesale and retail trade; repair of motor vehicles and motor cycles,9364
+9013,2011,Ceredigion,W06000008, P Education,5096
+9031,2011,Pembrokeshire,W06000009, G Wholesale and retail trade; repair of motor vehicles and motor cycles,8272
+9058,2011,Carmarthenshire,W06000010, G Wholesale and retail trade; repair of motor vehicles and motor cycles,13002
+9095,2011,Swansea,W06000011, Q Human health and social work activities,18231
+9101,2011,Neath Port Talbot,W06000012, C Manufacturing,9793
+9139,2011,Bridgend,W06000013, G Wholesale and retail trade; repair of motor vehicles and motor cycles,10012
+9176,2011,Vale of Glamorgan,W06000014, Q Human health and social work activities,7337
+9193,2011,Cardiff,W06000015, G Wholesale and retail trade; repair of motor vehicles and motor cycles,30359
+9230,2011,Rhondda Cynon Taff,W06000016, Q Human health and social work activities,13695
+9257,2011,Merthyr Tydfil,W06000024, Q Human health and social work activities,5044
+9263,2011,Caerphilly,W06000018, C Manufacturing,10900
+9290,2011,Blaenau Gwent,W06000019, C Manufacturing,4312
+9317,2011,Torfaen,W06000020, C Manufacturing,6269
+9355,2011,Monmouthshire,W06000021, G Wholesale and retail trade; repair of motor vehicles and motor cycles,6740
+9382,2011,Newport,W06000022, G Wholesale and retail trade; repair of motor vehicles and motor cycles,11878
